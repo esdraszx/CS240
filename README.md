@@ -1,6 +1,7 @@
 # Family Map App
 
-This is an Android application used to do family history. 
+This is the front and back end of an Android application used to do family history. 
+
 
 Upon registration it generates fake ancestral data and populates a google map fragment with the locations of these events.
 
