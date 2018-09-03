@@ -50,7 +50,7 @@ public class Server {
 
         server.start();
 
-        System.out.println("Server started");
+        System.out.println("Server started on port " + portNumber);
     }
 
 
